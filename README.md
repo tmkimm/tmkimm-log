@@ -41,6 +41,7 @@ In this template...
   <p>
     <img src="./assets/demos.png" alt="demo-image">
     <ul>
+      <li>tmkimm's log: https://tmkimm.netlify.app/</li>
       <li>JBEE.io: https://jbee.io</li>
       <li>Rinae's devlog: https://rinae.dev/</li>
       <li>Seungdols Company: https://seungdols.dev/</li>
